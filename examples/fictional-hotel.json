@@ -1,0 +1,32 @@
+{
+  "hotel": "Harbor Grove Hotel \u2014 fictional",
+  "rooms": 40,
+  "sold": 30,
+  "revenue": 4500,
+  "staffHours": 64,
+  "hourlyCost": 24,
+  "otherCosts": 650,
+  "tasks": [
+    {
+      "id": 1,
+      "room": "101",
+      "type": "Housekeeping",
+      "title": "Prepare room for arrival",
+      "status": "Open"
+    },
+    {
+      "id": 2,
+      "room": "204",
+      "type": "Maintenance",
+      "title": "Inspect air conditioning",
+      "status": "In progress"
+    },
+    {
+      "id": 3,
+      "room": "305",
+      "type": "Guest request",
+      "title": "Deliver extra towels",
+      "status": "Open"
+    }
+  ]
+}
